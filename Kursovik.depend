@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671902189 source:c:\users\xxx\desktop\3 сем\kursovik\main.cpp
+	<stdlib.h>
+	<crtdbg.h>
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<windows.h>
+
